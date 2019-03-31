@@ -1,11 +1,11 @@
 [![Build Status](https://travis-ci.org/givigivi/js-assignments.svg?branch=master)](https://travis-ci.org/givigivi/js-assignments)
 ![Hackage-Deps](https://img.shields.io/hackage-deps/v/lens.svg)
 [![Greenkeeper badge](https://badges.greenkeeper.io/givigivi/js-assignments.svg)](https://greenkeeper.io/)
-[![GitHub release](https://img.shields.io/github/release/it-shark-pro/js-assignments.svg)](https://github.com/it-shark-pro/js-assignments/releases/latest)
+[![GitHub release](https://img.shields.io/github/release/givigivi/js-assignments.svg)](https://github.com/givigivi/js-assignments/releases/latest)
 
 
 # [Brest IT Shark](https://it-shark.pro/)
-[![IT Shark](https://avatars2.githubusercontent.com/u/34164782?s=200&v=4)](http://it-shark.pro/)
+[![IT Shark](https://avatars2.githubusercontent.com/u/34164782?s=200&v=4)](http://givigivi/)
 ## Javascript Assignments
 
 # DON'T FORGET to send your results! [Send Results](https://goo.gl/forms/AhDP2YQQ7SziByeU2)
@@ -41,7 +41,7 @@ And the last idea is to inure trainees to work using unit test and feel uncomfor
   git commit -m "Update the links"
   git push origin master
 ```
-* Open https://github.com/it-shark-pro/js-assignments and test the build icon. Now it will run all tests and update status once you push changes to github. Keep this icon green!
+* Open https://github.com/givigivi/js-assignments and test the build icon. Now it will run all tests and update status once you push changes to github. Keep this icon green!
 
 
 ### How to setup work environment
